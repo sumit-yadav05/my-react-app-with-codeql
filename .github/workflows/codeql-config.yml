@@ -1,5 +1,0 @@
-jobs: 1.0
-default: false  # Disable default setup
-analyses:
-  - name: your-analysis-name
-    # Add your advanced configurations here
