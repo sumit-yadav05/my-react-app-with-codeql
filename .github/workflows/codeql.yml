@@ -2,9 +2,9 @@ name: "CodeQL Advanced"
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "sumit-yadav05-patch-1" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "sumit-yadav05-patch-1" ]
 
 jobs:
   analyze:
